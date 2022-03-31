@@ -69,7 +69,7 @@ public class VaccinationAppointment {
 
         return erg;
 
-    }
+    } 
 
 
 }
